@@ -4,6 +4,8 @@ Resumen diario de noticias de mercado, en español.
 
 Cada día de mercado hay un archivo con lo más importante de la sesión: qué se movió, por qué y qué viene. Está pensado para leerse en cinco minutos.
 
+Para ver los gráficos y los datos de los valores que se citan, usa TRAMUNT: [cheery-florentine-99bae4.netlify.app](https://cheery-florentine-99bae4.netlify.app).
+
 > **No es asesoramiento financiero.** Estos resúmenes son informativos. No recomiendan comprar ni vender nada. Comprueba siempre los datos en la fuente original antes de tomar una decisión.
 
 ## Estructura
